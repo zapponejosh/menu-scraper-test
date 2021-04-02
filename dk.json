@@ -1,0 +1,265 @@
+[
+  {
+    "page": "https://www.concur.dk/contact",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concursolutions.com/",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concursolutions.com/nui/signin"
+    ]
+  },
+  {
+    "page": "https://www.concur.dk/expense-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/concur-drive",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/tax-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/travel-expense-audit-service",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/travel-request",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/travel-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/payment-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/mobile",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/travel-booking",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/travel-request",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/triplink",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/invoice-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/travel-request",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/purchase-request",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/business-intelligence",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/travel-expense-data-analysis",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/service-administration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/user-support-desk",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/preferred-care",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/financial-connectors",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/sap-integration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/open-platform-apps",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/triplink",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/compliance",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concur.dk/vat-compliance"
+    ]
+  },
+  {
+    "page": "https://www.concur.dk/control-company-costs",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/duty-of-care",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/mobile",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/visibility-and-compliance",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/sustainable-travel",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/financial-services",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/financial-manager-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/business-travel-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/why-concur",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com/en-us/executive-team",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concur.com/"
+    ]
+  },
+  {
+    "page": "https://www.concur.dk/contact/offices",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com/en-us/about/corporate-responsibility",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com/en-us/careers",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concur.com/careers"
+    ]
+  },
+  {
+    "page": "https://www.concur.dk/contact",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.se/newsroom",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/resource-center/",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/events",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/webinars",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/casestudy",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/privacy-policy",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/mobile",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.dk/support",
+    "statusCode": 200,
+    "redirectUrls": []
+  }
+]

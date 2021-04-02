@@ -1,0 +1,279 @@
+[
+  {
+    "page": "https://www.concur.com.br/cotacao",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concursolutions.com/?lang=pt",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concursolutions.com/nui/signin?lang=pt"
+    ]
+  },
+  {
+    "page": "https://www.concur.com.br/expense-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/detect-expense-fraud",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/concur-drive",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/concur-request-travel-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/travel-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/travel-booking",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/concur-request-travel-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/travel-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/analytics",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/business-intelligence",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/conectores-financeiros",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/integracao-de-cartao",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/open-platform-apps",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/sap-e-concur",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/servicos-de-auditoria",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/travel-expense-data-analysis",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/preferred-care",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/service-administration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/service-administration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/user-support-desk",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/self-guided-demo-expense-pt-br",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/financial-manager-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/modern-finance-leaders",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/business-travel-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/it-leader",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/manufatura",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/varejo",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/continuidade-negocios",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/crescimento-dos-negocios",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/dever-de-diligencia",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/experiencia-do-colaborador",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/gestao-inteligente-de-gastos",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/travel-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/business-travel-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/trabalhoremoto",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/viagens-sustentaveis",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/visibilidade-e-controle",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/pequenas-medias-empresas",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/cotacao",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/sobre-a-concur",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/contact/offices",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/contact",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/cotacao",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/avaliacoes",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/resource-center/",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/eventos",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/news-center",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/casestudy",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/suporte",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com.br/self-guided-demo-expense-pt-br",
+    "statusCode": 200,
+    "redirectUrls": []
+  }
+]

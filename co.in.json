@@ -1,0 +1,376 @@
+[
+  {
+    "page": "https://www.concur.co.in/free-trial",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concursolutions.com/",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concursolutions.com/nui/signin"
+    ]
+  },
+  {
+    "page": "https://www.concur.co.in/expense-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/concur-drive",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-request",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-expense-audit-service",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/p-card-reconciliation",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/receipt-management-app",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/payment-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/self-guided-demo-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-request",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/triplink",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/triplink-supplier-connections",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/invoice-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-request",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/effortless-invoice-capture",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/payment-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/three-way-match",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/self-guided-demo-invoice",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/analytics",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/budget-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-expense-data-analysis",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/business-intelligence",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/service-administration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/user-support-desk",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/triplink",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/sap-integration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/all-products-page",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/get-quote-form",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/control-company-costs",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/duty-of-care",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/compliance-fraud",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/employee-engagement",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/business-growth-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/productivity",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/intelligent-spend-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/strategic-spend-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/travel-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/visibility-and-compliance",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/automotive",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/consumer-products",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/financial-services-solution",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/healthcare",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/life-sciences",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/manufacturing",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/oil-mine-gas",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/retail-and-restaurant",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/technology",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/accounts-payable",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/financial-manager-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/hr-solution",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/it-leader",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/business-travel-management",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/all-solutions",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/get-quote-form",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/about-concur",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com/en-us/careers",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concur.com/careers"
+    ]
+  },
+  {
+    "page": "https://www.concur.co.in/corporate-social-responsibility",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/contact/offices",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/contact",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/events/cfo-dialogues-series",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/casestudy",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/webinars-and-events",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/newsroom",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/resource-center/",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/privacy-policy",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/support",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/self-guided-demo-expense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.co.in/self-guided-demo-invoice",
+    "statusCode": 200,
+    "redirectUrls": []
+  }
+]

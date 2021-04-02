@@ -1,0 +1,363 @@
+[
+  {
+    "page": "https://www.concursolutions.com/?lang=fr",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concursolutions.com/nui/signin?lang=fr"
+    ]
+  },
+  {
+    "page": "https://www.concur.ca/fr/service-des-ventes",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-comptes-des-depenses",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/detection-de-fraude",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/controle-du-kilometrage",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/systeme-approbation-des-depenses",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-du-budget",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/service-de-v%C3%A9rification",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/solutions-de-paiement",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-deplacements",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-frais-deplacements-pro",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-securite-des-voyageurs",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concur.ca/fr/duty-of-care"
+    ]
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-du-budget",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/triplink",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/factures-fournisseurs",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-du-budget",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/solutions-de-paiement",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/analyse-rapport-depense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/correspondance-a-trois-voies",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/demande-dachat",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-du-budget",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/analyse-rapport-depense",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/administration-du-service",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/centre-assistance-aux-utilisateurs",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/travel-expense-data-analysis",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/service-administration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/connecteurs-financiers",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/free-trial",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-comptes-des-depenses",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/factures-fournisseurs",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-deplacements",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/all-products-page",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/visibilit%C3%A9-et-conformit%C3%A9",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/automatisation-depenses-voyages-professionnels",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/outils-gratuits-gestion-de-depenses",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/acceler-flux-approbation-factures-fournisseurs",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/productivit%C3%A9",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/gestion-de-tax",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/all-products-page",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/continuite-des-affaires",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/duty-of-care",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/servicesprofessionnels",
+    "statusCode": 404,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/vente-au-detail-et-restauration",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/fabrication",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/leader-en-informatique",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/solutions-de-gestionnaire-des-finances",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/dirigeants-financiers-modernes",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/service-des-ventes",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/choisir-concur",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com/en-us/careers",
+    "statusCode": 200,
+    "redirectUrls": [
+      "https://www.concur.com/careers"
+    ]
+  },
+  {
+    "page": "https://www.concur.ca/fr/politique-confidentialite",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/service-des-ventes",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/newsroom",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/centre-de-ressources/",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/events",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/casestudy/index",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/application-mobile",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/connaitre-les-prix",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/support",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/demonstration-autoguidee-expense/self-guided-demo-expense-fr-ca",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/fr/demonstration-autoguidee-invoice/self-guided-demo-invoice-fr-ca",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.facebook.com/SAPConcur",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.linkedin.com/company/sapconcur/",
+    "statusCode": 404,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://twitter.com/SAPConcur",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/newsroom",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/contact",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/get-quote-form",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/faq",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.ca/privacy-policy",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "https://www.concur.com/en-us/termsofuse",
+    "statusCode": 200,
+    "redirectUrls": []
+  },
+  {
+    "page": "",
+    "statusCode": 404,
+    "redirectUrls": []
+  }
+]
